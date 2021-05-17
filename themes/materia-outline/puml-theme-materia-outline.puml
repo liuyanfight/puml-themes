@@ -479,3 +479,8 @@ skinparam stack {
 	' FontColor $PRIMARY_TEXT
 }
 !endsub
+
+skinparam ClassFontColor #222
+'skinparam activityDiamondBackgroundColor #2196F3
+skinparam activityDiamondBorderColor #2196F3
+skinparam activityDiamondFontColor #2196F3
